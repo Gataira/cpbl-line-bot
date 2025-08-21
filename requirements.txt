@@ -1,0 +1,6 @@
+
+Flask
+requests
+pyngrok == 7.2.2
+google-generativeai
+line-bot-sdk
